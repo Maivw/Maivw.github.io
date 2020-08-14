@@ -1255,7 +1255,7 @@ button {
 			rgba(19, 21, 25, 0.5),
 			rgba(19, 21, 25, 0.5)
 		),
-		url("../../images/overlay.png");
+		url("https://www.pexels.com/photo/close-up-photo-of-blue-body-of-water-1435752/");
 	background-size: auto, 256px 256px;
 	background-position: center, center;
 	background-repeat: no-repeat, repeat;
@@ -1275,6 +1275,7 @@ button {
 		-ms-filter 0.325s ease-in-out;
 	transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 	background-image: url("../../images/mainbg.jpg");
+	/* background-color: lightgreen; */
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
